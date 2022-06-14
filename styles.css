@@ -1,1 +1,66 @@
 /* Write your CSS here! */
+
+
+body {
+    background-image: url(https://i.pinimg.com/originals/e4/df/46/e4df46f36a60cdddad18b963d7eaa264.png);
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    margin: 8px;
+}
+
+
+h1 {
+  color: rgb(80, 65, 130);
+    font-size: 40px;
+}
+h2 {
+    font-size: 40px;
+}
+h3 {
+    font-size: 35px;
+}
+h4 {
+    font-size: 40px;
+}
+p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 15px;
+    margin-left: 20px;
+    font-size: 20px;
+  
+
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.pics {
+    width: 300px;
+    min-height: 300px;
+    max-height: auto;
+    margin: 3px;
+    padding: 3px;
+}
+#mainHeading {
+    color:red
+}
+#thirdHeading {
+    color:rgb(139, 46, 7)
+}
+.center {
+    text-align: center;
+
+}
+h1.solid {
+    border-style: solid;
+}
+#testP{
+    color:green
+}
+.funParagraph {
+    color:green
+}
